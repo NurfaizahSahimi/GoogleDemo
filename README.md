@@ -30,7 +30,7 @@ Selenium           | `selenium-server-3.9.1`                                | Fr
 
 ## Files and Description ##
 <details>
-           <summary>Dassault Systeme IV - Nurfaizah.zip</summary>
+           <summary>Dassault Systeme Demo IV.zip</summary>
            <p>This folder contains the project and all the libraries needed.</p>
          </details>
          
@@ -46,3 +46,4 @@ Selenium           | `selenium-server-3.9.1`                                | Fr
 
 ## Problem Solving ##
 
+To solve this problem, first I find the element needed for the automation script, and easiest way to locate them is by using xpath since we can get to precise location of the element. After that, I send keys to the text search bar in order to mocking a real person using Google to search for information. Next and lastly, I click on the second link based on the xpath of that second element. Additionally, I capture some screenshot to ensure that my script navigate to a correct page. 
